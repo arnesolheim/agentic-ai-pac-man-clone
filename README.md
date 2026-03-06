@@ -1,3 +1,5 @@
+![Pac-Man Screenshot](docs/screenshot.jpg)
+
 # Pac-Man Clone (Vanilla JS)
 
 En autentisk Pac-Man-klone bygget med HTML5 Canvas og JavaScript, utviklet for å etterligne den klassiske arkadeopplevelsen fra 1980.
